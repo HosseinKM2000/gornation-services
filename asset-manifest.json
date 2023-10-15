@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.63968674.css",
+    "main.js": "/static/js/main.83ccb30a.js",
+    "static/js/787.47a06a1f.chunk.js": "/static/js/787.47a06a1f.chunk.js",
+    "static/media/SkinnySweatpants.jpg": "/static/media/SkinnySweatpants.8275abb2ecc620065cff.jpg",
+    "static/media/HeavyShortsHerren.jpg": "/static/media/HeavyShortsHerren.4f856eeacfe5d86b65d9.jpg",
+    "static/media/X2NATIONALCHAMPIOOFCLISTHENICS.jpg": "/static/media/X2NATIONALCHAMPIOOFCLISTHENICS.66057de9bc8d27c28823.jpg",
+    "static/media/SourceSansPro-Light.ttf": "/static/media/SourceSansPro-Light.81652e56f374ffa1f74f.ttf",
+    "static/media/SourceSansPro-Regular.ttf": "/static/media/SourceSansPro-Regular.73ae3a587f63679d851d.ttf",
+    "static/media/SourceSansPro-Bold.ttf": "/static/media/SourceSansPro-Bold.7edc663e536a20faf1be.ttf",
+    "static/media/ThenxShop.jpg": "/static/media/ThenxShop.b1130091ec2a69f899ce.jpg",
+    "index.html": "/index.html",
+    "main.63968674.css.map": "/static/css/main.63968674.css.map",
+    "main.83ccb30a.js.map": "/static/js/main.83ccb30a.js.map",
+    "787.47a06a1f.chunk.js.map": "/static/js/787.47a06a1f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63968674.css",
+    "static/js/main.83ccb30a.js"
+  ]
+}
